@@ -1,0 +1,11 @@
+D:\Humber Project\final exam 2\final exam 2\bin\Debug\netcoreapp3.1\final exam 2.exe
+D:\Humber Project\final exam 2\final exam 2\bin\Debug\netcoreapp3.1\final exam 2.deps.json
+D:\Humber Project\final exam 2\final exam 2\bin\Debug\netcoreapp3.1\final exam 2.runtimeconfig.json
+D:\Humber Project\final exam 2\final exam 2\bin\Debug\netcoreapp3.1\final exam 2.runtimeconfig.dev.json
+D:\Humber Project\final exam 2\final exam 2\bin\Debug\netcoreapp3.1\final exam 2.dll
+D:\Humber Project\final exam 2\final exam 2\bin\Debug\netcoreapp3.1\final exam 2.pdb
+D:\Humber Project\final exam 2\final exam 2\obj\Debug\netcoreapp3.1\final exam 2.csprojAssemblyReference.cache
+D:\Humber Project\final exam 2\final exam 2\obj\Debug\netcoreapp3.1\final exam 2.AssemblyInfoInputs.cache
+D:\Humber Project\final exam 2\final exam 2\obj\Debug\netcoreapp3.1\final exam 2.AssemblyInfo.cs
+D:\Humber Project\final exam 2\final exam 2\obj\Debug\netcoreapp3.1\final exam 2.dll
+D:\Humber Project\final exam 2\final exam 2\obj\Debug\netcoreapp3.1\final exam 2.pdb
